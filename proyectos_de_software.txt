@@ -1,0 +1,36 @@
+product backloc todo el requerimienito que vamos a requerinr lista de tareas para construir todo el proyecto 
+para nomina 
+entrada y salida
+--------------------------------------------
+DOM
+es saber cunado esta listo  en Qa 
+-------------------------------------------
+Sprint planing uno mismo delega 
+------------------------------------------
+
+----------------------------------------------
+
+sprin review  (invitados externos )
+
+***************
+historias de usuario
+preguntas:
+****como 
+****quiero
+*****para
+---------------------------------------------
+
+
+
+---------------------------
+scrum team
+scrum master
+product owner
+dev team
+--------------------------
+DAYLI SCRUM  reunion de 15 minutis
+-----------------------------
+TECNICAS DE ESTIMACION EN SCRUM 
+--------DEBER-----------------
+
+putos de historia
