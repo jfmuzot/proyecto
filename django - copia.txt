@@ -1,0 +1,11 @@
+django
+
+
+para crear el proyecto
+ django-admin startproject  proyecto <= aca va el nombre del proycto
+
+
+en el cmd
+python manage.py runserver
+
+python -m virtualenv venv
